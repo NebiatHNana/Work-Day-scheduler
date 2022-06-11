@@ -4,7 +4,7 @@ The website is a simple calendar application that allows a user to save events f
 ## Done by
 Nebiat HMichael Nana
 
-## Powerd by 
+## Powerd 
 
 HTML, CSS and JS
 
